@@ -11,11 +11,9 @@ This project is a comprehensive analysis of Lending Club loan data using Python 
 4. [Data Cleanup](#data-cleanup)
 5. [Addition Metric Generation](#additional-metric-generation)
 6. [Univariate Analysis](#univariate-analysis)
-7. [Segmented Analysis](#analysis)
-8. [Bivariate Analysis](#analysis)
-9. [Multi-variate Analysis](#analysis)
-10. [Final Dataset](#final-dataset)
-11. [Conclusion](#conclusion)
+7. [Segmented Analysis](#segmented-analysis)
+8. [Bivariate Analysis](#bivariate-analysis)
+9. [Multivariate Analysis](#multivariate-analysis)
 
 ---
 
@@ -419,7 +417,7 @@ df['income_level'] = pd.cut(df['annual_inc'],
 
 ---
 
-## UNIVARIATE ANALYSIS
+## Univariate Analysis
 
 1. **Loan Amount**
 The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
@@ -1004,7 +1002,7 @@ plt.show()
 
 ---
 
-# MULTIVARIATE ANALYSIS
+# Multivariate Analysis
 
 1. **Interaction Between Loan Amount, Interest Rate, and DTI**
 We aim to identify how loan amount, interest rate, and debt-to-income ratio (DTI) affect the likelihood of default. This can help in determining high-risk loans.
