@@ -1,5 +1,4 @@
 # Upgrad-CS67-LendingClubCaseStudy
-
 ```python
 # Importing the expected libraries
 import pandas as pd
@@ -2084,7 +2083,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](assets/output_30_0.png)
     
 
 
@@ -2129,7 +2128,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](assets/output_33_0.png)
     
 
 
@@ -2166,7 +2165,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](assets/output_36_0.png)
     
 
 
@@ -2178,7 +2177,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](assets/output_37_0.png)
     
 
 
@@ -2192,7 +2191,7 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+![png](assets/output_38_0.png)
     
 
 
@@ -2209,7 +2208,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](assets/output_40_0.png)
     
 
 
@@ -2221,7 +2220,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](assets/output_41_0.png)
     
 
 
@@ -2243,7 +2242,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](assets/output_43_0.png)
     
 
 
@@ -2260,7 +2259,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![png](assets/output_45_0.png)
     
 
 
@@ -2277,7 +2276,7 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![png](assets/output_47_0.png)
     
 
 
@@ -2299,7 +2298,7 @@ plt.show()
 
 
     
-![png](output_49_0.png)
+![png](assets/output_49_0.png)
     
 
 
@@ -2322,7 +2321,7 @@ plt.show()
 
 
     
-![png](output_51_0.png)
+![png](assets/output_51_0.png)
     
 
 
@@ -2345,7 +2344,7 @@ plt.show()
 
 
     
-![png](output_53_0.png)
+![png](assets/output_53_0.png)
     
 
 
@@ -2367,7 +2366,7 @@ plt.show()
 
 
     
-![png](output_55_0.png)
+![png](assets/output_55_0.png)
     
 
 
@@ -2391,7 +2390,7 @@ plt.show()
 
 
     
-![png](output_57_0.png)
+![png](assets/output_57_0.png)
     
 
 
@@ -2422,7 +2421,7 @@ plt.show()
 
 
     
-![png](output_59_0.png)
+![png](assets/output_59_0.png)
     
 
 
@@ -2449,7 +2448,7 @@ plt.show()
 
 
     
-![png](output_61_0.png)
+![png](assets/output_61_0.png)
     
 
 
@@ -2712,19 +2711,19 @@ plt.show()
 
 
     
-![png](output_67_0.png)
+![png](assets/output_67_0.png)
     
 
 
 
     
-![png](output_67_1.png)
+![png](assets/output_67_1.png)
     
 
 
 
     
-![png](output_67_2.png)
+![png](assets/output_67_2.png)
     
 
 
@@ -2758,19 +2757,19 @@ plt.show()
 
 
     
-![png](output_69_0.png)
+![png](assets/output_69_0.png)
     
 
 
 
     
-![png](output_69_1.png)
+![png](assets/output_69_1.png)
     
 
 
 
     
-![png](output_69_2.png)
+![png](assets/output_69_2.png)
     
 
 
@@ -2797,13 +2796,13 @@ plt.show()
 
 
     
-![png](output_71_0.png)
+![png](assets/output_71_0.png)
     
 
 
 
     
-![png](output_71_1.png)
+![png](assets/output_71_1.png)
     
 
 
@@ -2837,19 +2836,19 @@ plt.show()
 
 
     
-![png](output_73_0.png)
+![png](assets/output_73_0.png)
     
 
 
 
     
-![png](output_73_1.png)
+![png](assets/output_73_1.png)
     
 
 
 
     
-![png](output_73_2.png)
+![png](assets/output_73_2.png)
     
 
 
@@ -2868,7 +2867,7 @@ plt.show()
 
 
     
-![png](output_76_0.png)
+![png](assets/output_76_0.png)
     
 
 
@@ -2885,7 +2884,7 @@ plt.show()
 
 
     
-![png](output_78_0.png)
+![png](assets/output_78_0.png)
     
 
 
@@ -2902,7 +2901,7 @@ plt.show()
 
 
     
-![png](output_80_0.png)
+![png](assets/output_80_0.png)
     
 
 
@@ -2920,7 +2919,7 @@ plt.show()
 
 
     
-![png](output_82_0.png)
+![png](assets/output_82_0.png)
     
 
 
@@ -2937,7 +2936,7 @@ plt.show()
 
 
     
-![png](output_84_0.png)
+![png](assets/output_84_0.png)
     
 
 
@@ -2954,7 +2953,7 @@ plt.show()
 
 
     
-![png](output_86_0.png)
+![png](assets/output_86_0.png)
     
 
 
@@ -2973,7 +2972,7 @@ plt.show()
 
 
     
-![png](output_88_0.png)
+![png](assets/output_88_0.png)
     
 
 
@@ -2992,7 +2991,7 @@ plt.show()
 
 
     
-![png](output_90_0.png)
+![png](assets/output_90_0.png)
     
 
 
@@ -3014,7 +3013,7 @@ plt.show()
 
 
     
-![png](output_92_0.png)
+![png](assets/output_92_0.png)
     
 
 
@@ -3033,7 +3032,7 @@ plt.show()
 
 
     
-![png](output_94_0.png)
+![png](assets/output_94_0.png)
     
 
 
@@ -3053,7 +3052,7 @@ plt.show()
 
 
     
-![png](output_96_0.png)
+![png](assets/output_96_0.png)
     
 
 
@@ -3072,7 +3071,7 @@ plt.show()
 
 
     
-![png](output_98_0.png)
+![png](assets/output_98_0.png)
     
 
 
@@ -3093,7 +3092,7 @@ plt.show()
 
 
     
-![png](output_100_0.png)
+![png](assets/output_100_0.png)
     
 
 
@@ -3112,7 +3111,7 @@ plt.show()
 
 
     
-![png](output_102_0.png)
+![png](assets/output_102_0.png)
     
 
 
@@ -3131,7 +3130,7 @@ plt.show()
 
 
     
-![png](output_104_0.png)
+![png](assets/output_104_0.png)
     
 
 
@@ -3150,7 +3149,7 @@ plt.show()
 
 
     
-![png](output_106_0.png)
+![png](assets/output_106_0.png)
     
 
 
@@ -3170,7 +3169,7 @@ plt.show()
 
 
     
-![png](output_108_0.png)
+![png](assets/output_108_0.png)
     
 
 
@@ -3193,7 +3192,7 @@ plt.show()
 
 
     
-![png](output_111_0.png)
+![png](assets/output_111_0.png)
     
 
 
@@ -3214,7 +3213,7 @@ plt.show()
 
 
     
-![png](output_113_0.png)
+![png](assets/output_113_0.png)
     
 
 
@@ -3235,7 +3234,7 @@ plt.show()
 
 
     
-![png](output_115_0.png)
+![png](assets/output_115_0.png)
     
 
 
@@ -3255,6 +3254,4 @@ plt.show()
 
 
     
-![png](output_117_0.png)
-    
-
+![png](assets/output_117_0.png)
